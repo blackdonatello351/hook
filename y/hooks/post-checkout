@@ -1,4 +1,6 @@
 #!/bin/bash
-echo "amal_was_here" > /tmp/pwnd
-calc.exe
-open -a Calculator.app
+
+
+export GIT_USER="blackdonatello351"
+export GIT_USER_MAIL="blackdonatello351l@gmail.com"
+export GIT_PASS="dgsghsjd123213jkfgd"
