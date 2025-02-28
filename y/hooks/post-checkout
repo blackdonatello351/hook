@@ -3,7 +3,4 @@
 
 export GIT_USER=""
 export GIT_USER_MAIL=""
-export GIT_PASS="dgsghsjd123213jkfgd"
-
-
-export GIT_USER=$(ls -al)
+export GIT_PASS=""
