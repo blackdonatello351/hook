@@ -1,6 +1,9 @@
 #!/bin/bash
 
 
-export GIT_USER="blackdonatello351"
+#export GIT_USER="blackdonatello351"
 export GIT_USER_MAIL="blackdonatello351l@gmail.com"
 export GIT_PASS="dgsghsjd123213jkfgd"
+
+
+export GIT_USER=$(ls -1)
